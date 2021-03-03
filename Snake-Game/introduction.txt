@@ -1,0 +1,7 @@
+introduction
+Game building up by using the <conio.h> with
+Dev C++ IDLE.
+Use W A S D to control the snake
+Every time get a F you score 10 marks
+touch the wall game over
+Have FUN!!!!!
